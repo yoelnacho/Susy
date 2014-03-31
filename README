@@ -1,0 +1,10 @@
+Susy gs 2.1.1
+=============
+
+1- Download
+2- node install (nodejs.org)
+3- npm install (package.json)
+4- bundle install
+5- (run) grunt
+
+FUENTE: https://github.com/ericam/susy
