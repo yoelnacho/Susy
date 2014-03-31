@@ -8,3 +8,8 @@ Susy gs 2.1.1
 5- (run) grunt
 
 FUENTE: https://github.com/ericam/susy
+
+Note: 
+I had problems with the dependencies to create Bundler:
+Susy 2.1 need sass 3.3, It isn't compatible with compass (requested for Breakpoint).
+That example is without "Breakpoint" (for now).
